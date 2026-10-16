@@ -1,4 +1,4 @@
-# miniguia-estudos-notebooklm-aprofundamento
+# Notbooklm-study-guide
 The subject I chose for my study and theoretical deep-dive guide was the rise of three giants in today’s global tech market: Bill Gates, Mark Zuckerberg, and Elon Musk. I wanted to explore how they built their companies and pursued their learning journeys on the way to becoming the influential figures they are today; what I can learn and improve by looking at their beginnings and their present-day work; and how I can draw inspiration from them to pursue a bright future of my own. I also wanted to learn from the things they did—or might do if they were starting from scratch again—not only in the tech industry, but also in business assets that expand their knowledge, develop technologies, and consequently grow their wealth.
 
 I modeled my NotebookLM AI-agent concept on someone who draws on their backgrounds and journeys and uses them as a personalized foundation for working with me—becoming a more specialized agent that continually improves my learning.
